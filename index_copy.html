@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>  
+<head>    
+<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+<link rel="stylesheet" href="https://code.getmdl.io/1.2.1/material.indigo-pink.min.css">
+<script defer src="https://code.getmdl.io/1.2.1/material.min.js"></script>  
+<link href="style.css" rel="stylesheet" />  
+  <style>
+    .construction{
+      width:100%;
+      height:100px;
+      background-color:#111111
+    }
+  </style>
+  <script type="javascript">
+ $("#header-plugin").load("http://vivinantony.github.io/header-plugin/", function() {  $("a.back-to-link").attr("href", "http://www.thelittletechie.com/2015/04/mosaic-pattern.html#tlt");});//scripts herevar ww = window.innerWidth,  wh = window.innerHeight;function init() {  /* WEBGL RENDERER */  renderer = new THREE.WebGLRenderer({    canvas: document.getElementById('scene')  });  renderer.setClearColor(0xffffff);  renderer.setSize(ww, wh);  scene = new THREE.Scene();  camera = new THREE.PerspectiveCamera(50, ww / wh, 1, 10000);  camera.position.set(500, 500, 500);  camera.lookAt(new THREE.Vector3(0, 0, 0));  scene.add(camera);  cubes();}function cubes() {  cubes = new THREE.Object3D();  var geometry = new THREE.BoxGeometry(50, 100, 50);  var textures = [    new THREE.MeshBasicMaterial({      color: 0x065e52    }),    new THREE.MeshBasicMaterial({      color: 0xffffff    }),    new THREE.MeshBasicMaterial({      color: 0x148374    }),    new THREE.MeshBasicMaterial({      color: 0x19e8cc    }),    new THREE.MeshBasicMaterial({      color: 0x81C8A8    }),    new THREE.MeshBasicMaterial({      color: 0xffffff    })  ];  var material = new THREE.MeshFaceMaterial(textures);  for (var i = 0; i < 10; i++) {    for (var j = 0; j < 10; j++) {      var cube = new THREE.Mesh(geometry, material);      cube.position.set((i * 50 - 250), -40, (j * 50 - 250));      cube.scale.y = 0.1;      cube.tl = new TimelineMax({        repeat: -1,        delay: (i + j) / 10      });      cube.tl        .to(cube.scale, 2, {          y: 1,          ease: Expo.easeOut        })        .to(cube.position, 2, {          y: 0,          delay: -2,          ease: Expo.easeOut        })        .to(cube.scale, 3, {          y: 0.1,          ease: Power2.easeIn        })        .to(cube.position, 3, {          y: -40,          delay: -3,          ease: Power2.easeIn        });      cubes.add(cube);    }  }  scene.add(cubes);  animate();}var animate = function() {  requestAnimationFrame(animate);  renderer.render(scene, camera);};init();  
+                </script>
+<script src="script.js"></script> 
+</head> 
+<body>   
+  <div class="construction">
+    <h1>Under construction</h1><i class="weather-night"></i>
+  </div>
+  <div id="header-plugin"></div>
+<canvas id="scene"></canvas>
+</body>
+</html>
+
+
