@@ -3,46 +3,61 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/blogs/aliquam/</loc>
+    <loc>https://ctalladen78.github.io/blogs/crypto/</loc>
+    <lastmod>2020-05-25T18:40:44+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ctalladen78.github.io/</loc>
+    <lastmod>2020-05-25T18:40:44+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ctalladen78.github.io/blogs/yoga/</loc>
+    <lastmod>2020-05-25T18:28:42+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ctalladen78.github.io/blogs/example/</loc>
+    <lastmod>2020-05-25T15:52:24+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ctalladen78.github.io/blogs/aliquam/</loc>
     <lastmod>2017-10-31T22:42:51-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://ctalladen78.github.io/blogs/boilerplate/</loc>
     <lastmod>2017-10-31T22:42:51-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/blogs/boilerplate/</loc>
-    <lastmod>2017-10-31T22:42:51-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/blogs/</loc>
+    <loc>https://ctalladen78.github.io/blogs/</loc>
     <lastmod>2017-10-31T22:27:21-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/blogs/tempus/</loc>
+    <loc>https://ctalladen78.github.io/blogs/tempus/</loc>
     <lastmod>2017-10-31T22:26:13-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/blogs/magna/</loc>
+    <loc>https://ctalladen78.github.io/blogs/magna/</loc>
     <lastmod>2017-10-31T22:26:09-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/blogs/ipsum/</loc>
+    <loc>https://ctalladen78.github.io/blogs/ipsum/</loc>
     <lastmod>2017-10-31T21:28:43-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://ctalladen78.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://ctalladen78.github.io/tags/</loc>
   </url>
   
 </urlset>
