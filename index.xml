@@ -52,6 +52,27 @@ A post shared by Cyan Delta (@cyandelta.app) on Mar 25, 2020 at 6:13am PDT
     </item>
     
     <item>
+      <title>Flutter mini app</title>
+      <link>https://ctalladen78.github.io/blogs/flutter_app/</link>
+      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
+      
+      <guid>https://ctalladen78.github.io/blogs/flutter_app/</guid>
+      <description>    View this post on Instagram        Hey flutter devs! This is just too cool being able to run flutter apps on the browser with dartpad 😍 Im thinking of creating some simple demos and sharing with you soon, cheers🍺
+A post shared by Cyan Delta (@cyandelta.app) on Mar 11, 2020 at 3:23am PDT
+  Sample caption  Sample caption  </description>
+    </item>
+    
+    <item>
+      <title>Fortnite radar app</title>
+      <link>https://ctalladen78.github.io/blogs/fortnite/</link>
+      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
+      
+      <guid>https://ctalladen78.github.io/blogs/fortnite/</guid>
+      <description>Run the code at dartpad.dartlang.org
+https://gist.github.com/ctalladen78/869b643017bacfde064acac32f33fd13</description>
+    </item>
+    
+    <item>
       <title>Hackathon backend boilerplate</title>
       <link>https://ctalladen78.github.io/blogs/boilerplate/</link>
       <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
@@ -59,6 +80,36 @@ A post shared by Cyan Delta (@cyandelta.app) on Mar 25, 2020 at 6:13am PDT
       <guid>https://ctalladen78.github.io/blogs/boilerplate/</guid>
       <description>Features:
  JWT based content authentication Lambda serverless compute hosting Golang API DynammoDB based cloud database persistence  https://github.com/ctalladen78/dynamodb_todoapp</description>
+    </item>
+    
+    <item>
+      <title>Payment app prototype</title>
+      <link>https://ctalladen78.github.io/blogs/payment/</link>
+      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
+      
+      <guid>https://ctalladen78.github.io/blogs/payment/</guid>
+      <description>View this post on Instagram        Its really exciting to see how different cultures do business. As I travel through different countries, I notice how well people around the world do business reflects the values they hold as a society. For example, in Thailand, it is a Buddhist society, which believes in the circular nature of karma. They believe that kindness freely given to others comes back over time.</description>
+    </item>
+    
+    <item>
+      <title>Preferred Tech Stack</title>
+      <link>https://ctalladen78.github.io/blogs/stack/</link>
+      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
+      
+      <guid>https://ctalladen78.github.io/blogs/stack/</guid>
+      <description>    View this post on Instagram        why did i choose this stack? it took me about a year to learn this because of the nature of tech being ever changing. it was a way to future-proof my skills and give people awesome and cool products
+A post shared by Cyan Delta (@cyandelta.app) on Mar 25, 2020 at 6:13am PDT
+  </description>
+    </item>
+    
+    <item>
+      <title>Simple Prototype Auth using AWS Serverless Cloud</title>
+      <link>https://ctalladen78.github.io/blogs/auth_api/</link>
+      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
+      
+      <guid>https://ctalladen78.github.io/blogs/auth_api/</guid>
+      <description>https://github.com/ctalladen78/serverless-lambda-aws-go-boilerplate
+   View this post on Instagram        Authentication schemes are methods used to prove identity. Here they are ranked in order of vulnerability 🗝single factor : most vulnerable form of secrets, easily attacked using brute force and man in the middle techniques 🗝2-factor : if someone access your email, attackers can easily guess password 🗝multifactor : often used between systems, complex networks, banks.</description>
     </item>
     
     <item>
